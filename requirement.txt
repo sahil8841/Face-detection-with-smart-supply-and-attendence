@@ -1,0 +1,6 @@
+pip install openvc-python
+pip install dlib
+pip install face-recognization
+pip install tensorflow-lite
+pip install numpy
+pip install mysql-connector
